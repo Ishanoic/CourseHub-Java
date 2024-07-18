@@ -1,4 +1,4 @@
-# Course Management System
+![image](https://github.com/user-attachments/assets/dffad66f-f8f4-40b1-8796-f7dc075a691c)# Course Management System
 
 ## Introduction
 
@@ -33,42 +33,54 @@ Below are screenshots showcasing the different functionalities of the Course Man
 
 ### User Registration
 
-![User Registration](path/to/your/screenshot.png)
+#### For Instructors
+![image](https://github.com/user-attachments/assets/be303f8f-b1b8-4967-a7fd-a38c776f14b7)
+
+#### For Students
+![image](https://github.com/user-attachments/assets/82734522-782f-48aa-883f-795822cadd0e)
+
 
 ### User Login
 
-![User Login](path/to/your/screenshot.png)
+![image](https://github.com/user-attachments/assets/a13d7690-ae77-4bf2-8493-a04c980e551c)
+
 
 ### Instructor Dashboard
+![image](https://github.com/user-attachments/assets/7367821b-178c-418f-99eb-03e31922dc51)
+
 
 1. **Create New Course**  
-   ![Create New Course](path/to/your/screenshot.png)
+   ![image](https://github.com/user-attachments/assets/5be22fc8-1392-4087-aafa-fa3f9a25fbbb)
+
 
 2. **Edit Course**  
-   ![Edit Course](path/to/your/screenshot.png)
+   ![image](https://github.com/user-attachments/assets/f7e6c730-f07f-4ebe-a149-a16e4dd0fda7)
+   
 
-3. **Delete Course**  
-   ![Delete Course](path/to/your/screenshot.png)
+4. **Delete Course**  
 
-4. **Add Lecture to Course**  
-   ![Add Lecture to Course](path/to/your/screenshot.png)
 
-5. **Upload Material to Course**  
-   ![Upload Material to Course](path/to/your/screenshot.png)
+5. **Add Lecture to Course**  
+   ![image](https://github.com/user-attachments/assets/aee20065-80a3-4205-a708-4b46b83d741c)
 
-6. **View Enrolled Students**  
-   ![View Enrolled Students](path/to/your/screenshot.png)
+6. **Upload Material to Course**  
+   ![image](https://github.com/user-attachments/assets/931bae94-fd3f-4353-bcda-d7ceadae90cc)
 
-7. **Update Profile**  
-   ![Update Profile](path/to/your/screenshot.png)
+
+7. **View Enrolled Students**  
+   ![image](https://github.com/user-attachments/assets/5a2a1075-b3b1-47a8-8cee-5916ee460e4c)
+
+
+8. **Update Profile**  
+   ![image](https://github.com/user-attachments/assets/5e84df94-ab0c-42e3-b9c9-046ed026ab16)
+
 
 ### Student Dashboard
 
 1. **Enroll in a Course**  
-   ![Enroll in a Course](path/to/your/screenshot.png)
+   ![image](https://github.com/user-attachments/assets/abf47e73-f654-4135-8a1d-9ba2a4741326)
+
 
 2. **View Lectures**  
-   ![View Lectures](path/to/your/screenshot.png)
+   ![image](https://github.com/user-attachments/assets/bb98f801-5ebd-4701-a752-6b0b2c908b09)
 
-3. **Update Profile**  
-   ![Update Profile](path/to/your/screenshot.png)
