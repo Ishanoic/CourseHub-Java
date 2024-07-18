@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dffad66f-f8f4-40b1-8796-f7dc075a691c)# Course Management System
+# Course Management System
 
 ## Introduction
 
